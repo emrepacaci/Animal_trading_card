@@ -1,0 +1,43 @@
+/* img { */
+
+/* } */
+.fact {
+  font-style: italic;
+}
+ .bold {
+   font-weight: bold;
+ }
+img {
+  width: 300px;
+  /* border-width: 0px; */
+  /* border-style: outset; */
+  padding: 0.5em;
+  height: 190px;
+  border-radius: 10px;
+  /* height: inherit; */
+}
+.Card {
+  background-color: #D3D3D3;
+  width: 315px;
+  /* padding: 1em; */
+  border: 5px solid rgb(255,255,0);
+  border-radius: 20px
+}
+.dots {
+  list-style: none;
+  padding: 0px;
+}
+.information{
+  background-color: #800000;
+  border: solid;
+  border-radius:15px;
+  padding: 0.5em;
+
+}
+.header{
+  background-color: #FFFF00;
+  text-align: center;
+  text-transform: uppercase;
+  border-width: 5px;
+  border-style: groove;
+}
